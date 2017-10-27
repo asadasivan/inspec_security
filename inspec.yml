@@ -1,0 +1,8 @@
+name: inspec_security
+title: InSpec Security Profile
+maintainer: Arunkumar Sadasivan
+copyright: Arunkumar Sadasivan
+copyright_email: contact.arunsec@gmail.com
+license: Apache-2.0
+summary: An InSpec Compliance profile to automate security testing or validation.
+version: 0.1.0
